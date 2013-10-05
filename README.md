@@ -4,9 +4,9 @@ Hatena2md
 Hatena2md is app to get hatena diary entries in markdown style.
 
 Get all hatena diary entries by [Hatena Atompub](developer.hatena.ne.jp/ja/documents/blog/apis/atom).  
-And convert that entries to markdown style by [Pandoc-Ruby](https://github.com/alphabetum/pandoc-ruby).
+And convert that entries to markdown style by [pandoc-ruby](https://github.com/alphabetum/pandoc-ruby).
 
-**You must install [Pandoc](http://johnmacfarlane.net/pandoc/) to use Pandoc-ruby.**
+**You must install [Pandoc](http://johnmacfarlane.net/pandoc/) to use pandoc-ruby.**
 
 USAGE
 -----
