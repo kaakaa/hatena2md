@@ -1,9 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    mini_portile (0.5.1)
-    nokogiri (1.6.0)
-      mini_portile (~> 0.5.0)
     pandoc-ruby (0.7.5)
     wsse (0.0.2)
 
@@ -11,6 +8,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nokogiri
   pandoc-ruby
   wsse
